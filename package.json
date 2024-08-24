@@ -9,6 +9,10 @@
     "build",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharVashishth/cwt_quotes.git"
+  },
   "scripts": {
     "build": "rm -rf build && tsc"
   },
