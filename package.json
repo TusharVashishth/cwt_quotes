@@ -1,0 +1,27 @@
+{
+  "name": "cwt_quotes",
+  "version": "1.0.0",
+  "description": "If you feel de motivate then use this package for motivational quotes",
+  "main": "build/index.js",
+  "type": "module",
+  "types": "build/index.d.ts",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "keywords": [
+    "motivtation_quotes",
+    "Nodejs",
+    "Nextjs",
+    "Reactjs"
+  ],
+  "author": "Tushar Vashishth",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  }
+}
